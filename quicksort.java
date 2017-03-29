@@ -2,7 +2,12 @@ import java.util.Arrays;
 
 /**
  * Created by rxu on 3/29/2017.
- Quicksort	Ω(n log(n))	Θ(n log(n))	O(n^2)	O(log(n))
+ Quicksort	
+ time complexity worst case 	O(n^2)
+ time complexity best case  O(nlog(n))
+ time complexity average case O(nlog(n))
+ space complexity O(log(n))
+ 
  */
 public class QC1 {
     public static void main(String[] args){
